@@ -42,3 +42,46 @@ Welcome to the **JavaScript Mastery Course**! This course is designed to help yo
 ## 🌍 Community & Support
 
 If you have any questions or need support, feel free to reach out. Happy coding and good luck on your journey to mastering JavaScript!
+
+### Basics
+- Introduction to JavaScript
+- Setup your development environment
+- JavaScript fundamentals such as variables, loops, and conditions
+
+### Fundamentals
+- Delve deeper into JavaScript syntax
+- Learn how to manipulate data types, strings, and numbers
+
+### Data Structures
+- Work with arrays, objects, and other data structures
+
+### Functions
+- Master JavaScript functions, their types, scope, and usage
+
+### Advanced
+- Understand advanced topics like JSON, dates, and async programming
+
+### Higher-Order Functions
+- Learn how to use functions like `map()`, `filter()`, and `reduce()`
+
+### Data Structures Advanced
+- Explore advanced data structures like **Map**, **Set**, and **Symbols**
+
+### DOM
+- Learn how to manipulate the DOM and create interactive web pages
+
+### DOM Projects
+- Apply your knowledge by building practical projects using the DOM
+
+### OOP (Object-Oriented Programming)
+- Dive into Object-Oriented Programming concepts such as **Encapsulation**, **Inheritance**, and **Polymorphism**
+
+### Asynchronous Programming
+- Learn about Promises, `async/await`, and handling asynchronous operations
+
+### GSAP (GreenSock Animation Platform)
+- Master GSAP to create dynamic animations for your web projects
+
+### Miscellaneous
+- Additional tips, best practices, and more resources for continued learning
+
